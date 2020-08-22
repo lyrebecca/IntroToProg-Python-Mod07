@@ -4,7 +4,8 @@ Error Handling & Pickling in Python
 Rebecca Ly  
 August 19, 2020  
 Foundations of Programming: Python  
-Assignment 07
+Assignment 07  
+https://github.com/lyrebecca/IntroToProg-Python-Mod07  
 
 ## Introduction
 This week’s assignment introduced me to two concepts within Python called error handling and pickling. Error handling allow programmers to intercept a script when it encounters an error within the code and control the message output and can allow the script to fully run without exiting out like a script would if there was no except clause to intercept. Pickling is used to convert python objects such as lists and dictionaries into byte streams for space efficiency. Pickling also allows for easier transfer of data from one system to another.
